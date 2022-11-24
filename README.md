@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrincyLora
-- 👀 I’m interested in  Web development using .Net, C#, React and Node js
-- 🌱 I’m currently learning React, Node and Machine Learning
+- 👀 I’m interested in  Web development using JavaScript
+- 🌱 I’m currently learning and working on React, Node and Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me..
 
